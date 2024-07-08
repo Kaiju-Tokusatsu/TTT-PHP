@@ -96,7 +96,7 @@ session_start([
 
  <div class="form-group">
 
-    <label for="email">Your CHARM-EU email address</label>
+    <label for="email">Your CHARM-EU (uu.nl) email address</label>
 
     <input type="email" required name="email">
     
