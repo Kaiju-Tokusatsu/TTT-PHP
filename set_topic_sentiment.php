@@ -1,9 +1,6 @@
 <?php
 require '../db_inc/db_conn.php';
 
-//init
-//$duplicateRecord = false;
-
 //check that we've got a team ID
 if( (isset($_POST['team'])) && (isset($_POST['user'])) && (isset($_POST['question_id'])) && (isset($_POST['topicSentiment'])) ){
 
